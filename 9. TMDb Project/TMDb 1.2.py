@@ -1,5 +1,7 @@
 """
+Problem statement :
 
+Fetch the company id company 'Marvel Studios' using TMDb. Print the id.
 """
 
 # 🔴🟡🔴🟡🔴🟡🔴🟡🔴🟡 https://linkedin.com/in/sirajudinbadi79 🔴🟡🔴🟡🔴🟡🔴🟡🔴🟡
