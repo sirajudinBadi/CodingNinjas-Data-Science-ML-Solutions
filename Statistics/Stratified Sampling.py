@@ -46,7 +46,7 @@ all_city_filter = df[df["CityLocation"].isin(["Bangalore", "NCR", "Mumbai", "Pun
 # Create strata for each city and find max amount
 bangalore_strata = all_city_filter[all_city_filter["CityLocation"].isin(["Bangalore"])]
 hyderabad_strata = all_city_filter[all_city_filter["CityLocation"].isin(["Hyderabad"])]
-mumbai_strata = all_city_filter[all_city_filter["CityLocation"].isin(["Bangalore"])]
+mumbai_strata = all_city_filter[all_city_filter["CityLocation"].isin(["Mumbai"])]
 ncr_strata = all_city_filter[all_city_filter["CityLocation"].isin(["NCR"])]
 pune_strata = all_city_filter[all_city_filter["CityLocation"].isin(["Pune"])]
 
