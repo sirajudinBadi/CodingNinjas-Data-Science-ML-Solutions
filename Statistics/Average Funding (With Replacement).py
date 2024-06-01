@@ -20,6 +20,9 @@ Output :
 # 🔴🟡🔴🟡🔴🟡🔴🟡🔴🟡 https://linkedin.com/in/sirajudinbadi79 🔴🟡🔴🟡🔴🟡🔴🟡🔴🟡
 # 🔴🟡🔴🟡🔴🟡🔴🟡🔴🟡 https://x.com/Sirajudin79 🔴🟡🔴🟡🔴🟡🔴🟡🔴🟡🔴🟡🔴
 
+# Load the libraries
+import pandas as pd
+
 # loaded the csv file and copied dataframe
 data = pd.read_csv("startups_funding.csv")
 df = data.copy()
